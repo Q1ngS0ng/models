@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2019/9/15 9:26
-# @Author  : DaiPuWei
-# @Email   : daipuwei@qq.com
-# @Blog    : https://daipuweiai.blog.csdn.net/
-# @File    : DCGAN.py
-# @Software: PyCharm
 
 import os
 import numpy as np

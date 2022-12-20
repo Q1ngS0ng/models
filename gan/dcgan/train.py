@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2019/9/15 21:58
-# @Author  : DaiPuWei
-# @Email   : daipuwei@qq.com
-# @Blog    : https://daipuweiai.blog.csdn.net/
-# @File    : train.py
-# @Software: PyCharm
 
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
